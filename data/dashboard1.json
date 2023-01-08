@@ -1,0 +1,41 @@
+{
+    "title": "Dashboard 1",
+    "description": "Lorem ipsum etc",
+    "components": [
+        {
+            "slug": "meditacoes-dias-da-semana",
+            "title": "Meditações para os dias da semana - Rudolf Steiner",
+            "type": "eachDayOfWeek",
+            "content": [
+                {
+                    "day": 0,
+                    "content": " <p class=\"py-3\">                        (Domingo)                    </p>                        <p class=\"py-3\">                        Até mesmo em relação às ações mais insignificantes, só tomar uma decisão com base numa ponderação plena e bem fundamentada. Todo procedimento impensado, toda ação irrelevante devem ser mantidos afastados da alma. Deve-se sempre ter, para tudo, razões bem ponderadas. Deve-se deixar de fazer aquilo que carece de um motivo significativo.                    </p>                    <p class=\"py-3\">                        Se estamos convencidos de que a decisão tomada é correta, devemos nos ater a ela, com toda firmeza de ânimo.                    </p>                    <p class=\"py-3\">                        Este é o assim chamado “juízo certo” que não depende de simpatia nem de antipatia.                    </p>"
+                },
+                {
+                    "day": 1,
+                    "content": "<p class=\"py-3\">                            (Segunda)                        </p>                            <p class=\"py-3\">                            A fala. Dos lábios de quem aspira a um desenvolvimento superior, só deve manar o que tem significado e importância. Todo falar só para falar – por exemplo para passar o tempo – é, nesse sentido, prejudicial.                        </p>                        <p class=\"py-3\">                            Devemos evitar o tipo comum de conversa, em que se fala de qualquer assunto, numa mistura inconseqüente; por outro lado, não nos devemos excluir da convivência com nosso próximo. É justamente no contato com os outros que a conversa deve evoluir paulatinamente até adquirir um caráter relevante. Que se dê resposta a qualquer interlocutor, mas de forma pensada, em todos os sentidos. Nunca falar sem motivo! Gostar de ficar calado! Que se procure não falar demais nem de menos. Primeiro ouvir com atenção e calma, depois digerir.                        </p>                        <p class=\"py-3\">                            Esse exercício também se chama “a palavra certa”.                        </p>"
+                },
+                {
+                    "day": 2,
+                    "content": "<p class=\"py-3\">                        (Terça)                    </p>                        <p class=\"py-3\">                        As ações exteriores. Estas não devem ser perturbadoras para nosso próximo. Quando nosso íntimo (consciência moral) nos leva a agir, devemos ponderar cuidadosamente sobre a melhor maneira de corresponder ao bem do todo, à felicidade duradoura do próximo, à essência eterna.                    </p>                    <p class=\"py-3\">                        Quando agimos a partir de nós mesmos – por iniciativa própria – devemos ponderar a fundo, de antemão, sobre os efeitos de nosso modo de proceder.                    </p>                    <p class=\"py-3\">                        Isso também é chamado de “ação certa”.                    </p>"
+                },
+                {
+                    "day": 3,
+                    "content": "  <p class=\"py-3\">                        (Quarta)                    </p>                        <p class=\"py-3\">                        A organização da existência. Viver de acordo com a natureza e com o espírito, não se deixar absorver pelas futilidades da vida exterior. Evitar tudo o que traz inquietação e pressa.                    </p>                    <p class=\"py-3\">                        Não precipitar nada, mas tampouco ficar inerte. Considerar a vida como um meio de trabalho, de elevação, e proceder de acordo.                    </p>                    <p class=\"py-3\">                        Isso também é chamado “ponto de vista certo”.                    </p>"
+                },
+                {
+                    "day": 4,
+                    "content": " <p class=\"py-3\">                        (Quinta)                    </p>                        <p class=\"py-3\">                        O anseio humano. Devemos ter o cuidado de não empreender nada que esteja além de nossas forças, mas tampouco deixar de fazer o que está dentro de nossas possibilidades.                    </p>                    <p class=\"py-3\">                        Olhar para além do imediato e do dia-a-dia; fixar para si próprio metas (ideais) relacionados com os deveres mais elevados do homem. Por exemplo: procurar desenvolver-se por meio dos exercícios indicados, a fim de poder depois ajudar e aconselhar o próximo mais intensamente, mesmo que isso não se dê num futuro imediato.                    </p>                    <p class=\"py-3\">                        O que foi dito também pode ser resumido em: “transformar todos os exercícios precedentes em hábitos”.                     </p>"
+                },
+                {
+                    "day": 5,
+                    "content": "<p class=\"py-3\">                        (Sexta-feira)                    </p><p class=\"py-3\">                        O anseio de aprender com a vida o mais possível. Nada acontece conosco que não nos dê a oportunidade de colecionarmos experiências úteis para a vida. Se fizemos algo de forma errada ou incompleta, isso será um pretexto para fazermos, mais tarde, algo semelhante, mas de maneira mais correta e perfeita. Vendo outros agirem, devemos observá-los em seu caminho a um objetivo semelhante (embora sempre com um olhar carinhoso).                    </p>                    <p class=\"py-3\">                        Não devemos fazer nada sem antes lançarmos um olhar retrospectivo às nossas próprias vivências, que podem ser de ajuda em nossas decisões e realizações. Se estivermos atentos, podemos aprender muito com qualquer pessoa, inclusive com crianças.                     </p>                    <p class=\"py-3\">                        Este exercício é também chamado “memória certa”, isto é, lembrar-se do que foi aprendido, lembrar-se das experiências por que passamos.                    </p>"
+                },
+                {
+                    "day": 6,
+                    "content": " <p class=\"py-3\">                        (Sábado)                    </p>                                <p class=\"py-3\">                        O homem deve dar toda a atenção a certos processos anímicos que ele geralmente realiza de modo descuidado e desatento.                    </p>                    <p class=\"py-3\">                        Prestar atenção nas próprias representações mentais (pensamentos). Só emitir pensamentos significativos. Aprender a distinguir, paulatinamente, em seus próprios pensamentos, o essencial do acessório, o eterno do efêmero, a verdade da mera opinião.                    </p>                    <p class=\"py-3\">                        Ao escutar o que diz o próximo, procurar ficar totalmente quieto interiormente e renunciar a todo consentimento e, principalmente, a todo julgamento negativo (crítica, rejeição), também em pensamentos e sentimentos. Essa é a assim chamada “opinião certa”.                    </p>"
+                }
+            ]
+        }
+    ]
+}
